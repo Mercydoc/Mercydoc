@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Craig
 - 👀 I’m interested in Mountain biking, Things that allow me to achieve more by doing less, good sounds,
 - 🌱 I’m currently learning some I/O platforms - Arduino, Fusion360, 3D printing Raspberry Pi, 
-- 💞️ I’m looking to collaborate on still learning at the mo on the collective above
+- 💞️ I’m looking to collaborate, but still learning at the mo on the collective above
 
 - 📫 How to reach me ...
 
